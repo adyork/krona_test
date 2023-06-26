@@ -22,3 +22,7 @@ https://adyork.github.io/krona_test/FullTaxa.krona.html
 
 
 `https://<yourUsername>.github.io/<your Repo name>/<your krona plot name>.html`
+
+Bonus:
+
+If you want your main github.io page (e.g. https://adyork.github.io) to show something instead of a 404 you can add an "index.html" file to the root of your repository.
