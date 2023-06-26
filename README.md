@@ -15,7 +15,9 @@ Setup for Github pages with Krona can be done many ways, these are the exact ste
 3. Change "Deploy from a Branch" to "GitHub Actions"
 4. Click "Configure" button in "Static HTML" box.
 5. Press Commit.  
-6. Wait.  It takes about a minute or so for the github environment to get setup.  If you go to your main repo page you will see a new section show up on the right side panel called "Github environments" and an option to open the main page of your github.io.  But in any case you need to construct the fill link. For example:
+6. Wait.  It takes about a minute or so for the github environment to get setup.  
+7. If you go to your main repo page you will see a new section show up on the right side panel called "Environments" with "github-pages" showing. 
+8. To get to the krona plot you need to construct the full link to get to it. For example:
 https://adyork.github.io/krona_test/FullTaxa.krona.html
 
 
