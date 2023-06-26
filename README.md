@@ -1,11 +1,9 @@
 # krona_test
 
-DOCUMENTATION GOES HERE!
-
-This is a test, 
+This is a test site, not meant to be a long term reference.
 FullTaxa.krona.html was written by Alexander Bochdansky.
 
-You can download a krona plot html to open and view on your own computer.  
+You can download a krona plot html file in this repository to open and view on your own computer.  
 
 This repository is configured to provide view of the plot using GitHub Pages at
 https://adyork.github.io/krona_test/FullTaxa.krona.html
