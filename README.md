@@ -19,4 +19,4 @@ Setup for Github pages with Krona can be done many ways, these are the exact ste
 https://adyork.github.io/krona_test/FullTaxa.krona.html
 
 
-https://<yourUsername>.github.io/<your Repo name>/<your krona plot name>.html
+`https://<yourUsername>.github.io/<your Repo name>/<your krona plot name>.html`
